@@ -1,0 +1,115 @@
+PARALELEPIPEDO,Reveste a calçada
+ENDOSCOPIA,Exame Médico
+ANACONDA,Reptil rastejante
+GUARANI,Tribo indigena
+PRESBIOPIA,Doença Ocular
+CASCAVEL,Reptil venenoso
+ESTOCOLMO,Capital da Suécia
+SOCRATES,Filósogo Grego
+AGAPE, Amor em grego
+PERIPATETICO, Que ensina andando
+URANIO, Metal Radioativo
+ENEIDA, Heroi Épico
+DEMOCRACIA, Regime de Governo
+JILO, Legume de sabor amargo
+NICARAGUA, Pais da América Central
+XAROPE, Tipo de Remédio
+HEDONISMO, Filosofia baseada na contemplação do ser
+FINLANDIA, País Nórdico
+GRAMOFONE, Vitrola antiga
+XADREZ, Jogo de Tabuleiro
+TUBERCULOSE, Doença pulmonar
+DIAMANTE, Pedra Preciosa
+CAGADO, Espécie de tartaruga
+DROMEDARIO, Tem uma unica corcova
+BEDUINO, Habitante do deserto
+ESQUIMO, habitante de áreas polares
+MAMUTE, Elefante lanoso extinto
+SAFIRA, Pedra preciosa
+ABACAXI, casca áspera e suculenta
+ABACATE, verde por fora cremoso por dentro
+ACEROLA, rica em vitamina C nativa do Brasil
+BANANA, rica em potássio em formato curvo
+CAQUI, cor de laranja com textura gelatinosa
+DAMASCO, sabor doce e azedo caroço no centro
+FIGO, casca fina e polpa adocicada
+GOIABADA, casca verde e polpa rosada
+JACA, a maior fruta do mundo casca verde e espinhenta
+PARIS, capital da França conhecida pela Torre Eiffel
+ROMA, capital da Itália lar do Coliseu e Vaticano
+LONDRES, capital da Inglaterra famosa pelo Big Ben e Palácio de Buckingham
+TOQUIO, capital do Japão conhecida por sua cultura e tecnologia
+BARCELONA, cidade espanhola famosa pela Sagrada Família e Parque Güell
+SYDNEY, capital da Austrália conhecida pela Ópera de Sydney
+LISBOA, capital de Portugal famosa pelo Fado e Torre de Belém
+CHINA, país mais populoso do mundo com rica cultura
+FRANÇA, país conhecido pela gastronomia e moda
+ESPANHA, país com clima quente e cultura vibrante.
+ABELHA, inseto que produz mel
+ALBATROZ, ave marinha de grande porte
+ALZHEIMER, doença neurodegenerativa
+ANDRÔMEDA, galáxia espiral próxima à Via Láctea
+ANEMIA, doença do sangue
+ANTILOPE, mamífero ruminante de chifres longos
+APENDICITE, inflamação do apêndice
+AQUILA, constelação zodiacal
+ARAUANA, peixe de água doce com escamas coloridas
+ARTERIOSCLEROSE, endurecimento das artérias
+ASTEROIDE, corpo rochoso que orbita o Sol
+ASTROLABIO, instrumento antigo para medir a altura dos astros
+AVEIA, cereal rico em fibras
+BACALHAU, peixe de água salgada
+BACTERIA, microrganismo unicelular
+BALAÚSTRO, coluna ornamental em forma de bala
+BALEIA, mamífero marinho de grande porte
+BELUGA, mamífero marinho branco do Ártico
+BIOLOGIA, ciência que estuda os seres vivos
+BOI, mamífero ruminante de grande porte
+BORBOLETA, inseto com asas coloridas
+BRONQUITE, inflamação dos brônquios
+CARACOL, molusco com concha espiral
+CARDEAL, ave de cor vermelha viva
+CARÍCIE, gesto de afeto com a mão
+CATASTROFISMO, crença em eventos catastróficos na história da Terra
+CAVALO, mamífero equino de grande porte
+CEGONHA, ave pernalta de bico longo
+CÉU, parte superior da atmosfera terrestre
+CIANETO, composto químico altamente tóxico
+COBRA, serpente venenosa
+COELHO, mamífero roedor de orelhas longas
+COLETE, peça de roupa sem mangas
+COLIBRI, ave de pequeno porte que se alimenta de néctar
+CANETA, instrumento de escrita
+MESA, móvel com tampo plano e base
+CADEIRA, móvel com assento e encosto para uma pessoa
+TELEVISÃO, aparelho para recepção e reprodução de imagens e sons
+CELULAR, telefone móvel
+COMPUTADOR, máquina eletrônica programável
+LIVRO, conjunto de folhas impressas e encadernadas
+CARRO, veículo automotor terrestre
+CASA, construção destinada à habitação humana
+BICICLETA, veículo de duas rodas impulsionado por força humana
+TOMOGRAFIA, exame médico que utiliza imagens em cortes transversais do corpo
+ULTRASSONOGRAFIA, exame médico que utiliza ondas sonoras para obter imagens do interior do corpo
+ELETROCARDIOGRAMA, exame médico que registra a atividade elétrica do coração
+HEMOGRAMA, exame médico que analisa os componentes do sangue
+EXAME DE URINA, exame médico que analisa a composição da urina
+COLONOSCOPIA, exame médico que examina o interior do intestino grosso
+ENDOSCOPIA, exame médico que examina o interior do estômago e do duodeno
+MAMOGRAFIA, exame médico que utiliza raios X para examinar as mamas
+PLATÃO, filósofo grego que viveu nos séculos V e IV a.C
+ARISTÓTELES, filósofo grego que viveu nos séculos IV e III a.C
+DESCARTES, filósofo francês que viveu nos séculos XVI e XVII
+SPINOA, filósofo holandês que viveu nos séculos XVII e XVIII
+LOCKE, filósofo inglês que viveu nos séculos XVII e XVIII
+HUME, filósofo escocês que viveu nos séculos XVII e XVIII
+KANT, filósofo alemão que viveu nos séculos XVIII e XIX
+HEGEL, filósofo alemão que viveu nos séculos XVIII e XIX
+MARX, filósofo alemão que viveu nos séculos XIX e XX
+NIETZSCHE, filósofo alemão que viveu nos séculos XIX e XX
+FREUD, filósofo austríaco que viveu nos séculos XIX e XX
+SARTRE, filósofo francês que viveu nos séculos XX e XXI
+FOUCAULT, filósofo francês que viveu nos séculos XX e XXI
+ADORNO, filósofo alemão que viveu nos séculos XX e XXI
+BENJAMIN, filósofo alemão que viveu nos séculos XIX e XX
+ARENDT, filósofa alemã que viveu nos séculos XX e XXI
